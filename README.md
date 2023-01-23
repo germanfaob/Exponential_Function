@@ -3,7 +3,7 @@
 ## Descripción
 
 [También conocido como Número de Euler, se utiliza para multitud de cálculos matemáticos, tanto dentro como fuera de programación. Se representa de la siguiente manera:
-<p align=center>
+<p align="center">
 ![](https://raw.githubusercontent.com/germanfaob/Exponential_Function/Exponential_Function.git/funcionExponencial.png)
 ![](https://raw.githubusercontent.com/germanfaob/Exponential_Function/Exponential_Function.git/grafica%20de%20e.png)
 </p>
