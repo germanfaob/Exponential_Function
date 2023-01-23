@@ -23,7 +23,7 @@ Una función exponencial tiene muchas aplicaciones, una de ellas puede ser el cr
 - Dirígete a la ruta de la carpeta
 - Una vez allí, puedes escribir "py ExpFunction.py" o "python ExpFunction.py"
 
-Probado en Windows, es posible que en tu sistema operativo sea diferente.<br> También puedes ejecutarlo en VSCode para visualizarlo mejor.]
+Probado en Windows, es posible que en su sistema operativo sea diferente.<br> También puedes ejecutarlo en VSCode para visualizarlo mejor.]
 
 ## Uso
 
