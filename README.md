@@ -3,10 +3,9 @@
 ## Descripción
 
 También conocido como Número de Euler, se utiliza para multitud de cálculos matemáticos, tanto dentro como fuera de programación. Se representa de la siguiente manera:
-<p align ="center">
+
 ![](https://raw.githubusercontent.com/germanfaob/Exponential_Function/Exponential_Function.git/funcionExponencial.png)
 ![](https://raw.githubusercontent.com/germanfaob/Exponential_Function/Exponential_Function.git/grafica%20de%20e.png)
-</p>
 
 Una función exponencial tiene muchas aplicaciones, una de ellas puede ser el crecimiento de las bacterias o estadística, entre otras.<br> La idea de esta función es resolver el número (e): 2,718281828... aproximando los decimales todo lo que queramos. Para ello tenemos el termino 'n' (xⁿ), cuantos más términos en la serie, mayor aproximación decimal al número (e) obtendremos.
 
